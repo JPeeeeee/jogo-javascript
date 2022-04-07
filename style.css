@@ -1,0 +1,10 @@
+.container{
+    position: relative;
+}
+
+.health{
+    position: absolute;
+    height: 3rem;
+    width: 10rem;
+    background-color: dodgerblue;
+}
