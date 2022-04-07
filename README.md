@@ -1,2 +1,2 @@
 # Jogo de luta!
-Jogo de luta feito em JS
+Bem vinde! Esse é um jogo de luta feito em JS!
